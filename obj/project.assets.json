@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\RestaurantManagement.csproj",
+      "projectUniqueName": "D:\\Workspace\\Restaurant-management-winform\\RestaurantManagement.csproj",
       "projectName": "RestaurantManagement",
-      "projectPath": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\RestaurantManagement.csproj",
+      "projectPath": "D:\\Workspace\\Restaurant-management-winform\\RestaurantManagement.csproj",
       "packagesPath": "C:\\Users\\VANNAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\obj\\",
+      "outputPath": "D:\\Workspace\\Restaurant-management-winform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VANNAM\\AppData\\Roaming\\NuGet\\NuGet.Config",

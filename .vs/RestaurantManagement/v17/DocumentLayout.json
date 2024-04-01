@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\",
+  "WorkspaceRootPath": "D:\\Workspace\\Restaurant-management-winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\compressed\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|d:\\workspace\\restaurant-management-winform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|d:\\workspace\\restaurant-management-winform\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\compressed\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|D:\\Workspace\\Restaurant-management-winform\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\compressed\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|D:\\Workspace\\Restaurant-management-winform\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\compressed\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|D:\\Workspace\\Restaurant-management-winform\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\compressed\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|D:\\Workspace\\Restaurant-management-winform\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,41 +34,56 @@
       "DocumentGroups": [
         {
           "DockedHeight": 762,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DTO\\Bill.cs",
-              "RelativeDocumentMoniker": "DTO\\Bill.cs",
-              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DTO\\Bill.cs",
-              "RelativeToolTip": "DTO\\Bill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T13:39:51.622Z",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T15:00:47.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DTO\\Account.cs",
-              "RelativeDocumentMoniker": "DTO\\Account.cs",
-              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DTO\\Account.cs",
-              "RelativeToolTip": "DTO\\Account.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "DTO\\Bill.cs",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\DTO\\Bill.cs",
+              "RelativeToolTip": "DTO\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T13:39:45.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T13:39:51.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "DTO\\Account.cs",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\DTO\\Account.cs",
+              "RelativeToolTip": "DTO\\Account.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:39:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\AccountDAO.cs",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\DAO\\AccountDAO.cs",
               "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\AccountDAO.cs",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\DAO\\AccountDAO.cs",
               "RelativeToolTip": "DAO\\AccountDAO.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAuwFkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,33 +92,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\frmAdmin.cs",
               "RelativeDocumentMoniker": "frmAdmin.cs",
-              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\frmAdmin.cs",
               "RelativeToolTip": "frmAdmin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T13:38:06.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T13:38:06.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\DataProvider.cs",
+              "DocumentMoniker": "D:\\Workspace\\Restaurant-management-winform\\DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
-              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\Compressed\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Workspace\\Restaurant-management-winform\\DAO\\DataProvider.cs",
               "RelativeToolTip": "DAO\\DataProvider.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAA1wCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T13:35:09.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-04-01T13:35:09.868Z"
             }
           ]
         },
